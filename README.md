@@ -17,7 +17,7 @@ This API allows you to fetch non-forked repositories of a specified GitHub user 
 - Maven
 - Git
 - Clone the Repository
-- git clone https://github.com/biedrzyd/demo.git
+- git clone https://github.com/biedrzyd/atipera.git
 - cd demo
 
 # API Endpoints
